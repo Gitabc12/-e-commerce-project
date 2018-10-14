@@ -1,3 +1,5 @@
+hbase
+hive
 hadoop 
 scala
 spark
